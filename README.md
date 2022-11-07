@@ -75,18 +75,6 @@ Projeto Integrador do segundo semestre na Fatec Araras.
        </a>
        <br />
     </td>
-     <td align="center">
-      <a href="https://github.com/StefanyMartins19">
-        <img src="https://avatars.githubusercontent.com/u/103004441?v=4" width="100px;" alt="Stefany"/>
-        <br />
-        <sub>
-          <b>Stefany</b>
-        </sub>
-       </a>
-       <br />
-       <a href="https://www.linkedin.com/in/stefany-martins-1871891a4/" title="Linkedin">@stefanymartins</a>
-       <br />
-    </td>
   </tr>
   </table>
   <br>
@@ -103,10 +91,18 @@ Esta página poderia ter postagens feitas pelos professores vigentes da institui
 - Uma página com bolsas e estágios oferecidos pelas empresas cadastradas.
 
 As empresas postariam ofertas de estágios, ou bolsas de estudos / cursos, os alunos então poderiam se inscrever caso seu perfil seja compatível. A empresa então veria diretamente os aplicantes a sua postagem, podendo ver o perfil do aluno, seus certificados, e entrar em contato diretamente com o mesmo ou sua instituição de ensino.
+                                                                                                                                                      
+<br/>
+                                                                                                                                                      
+## 🔖 Layout
 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/EbuJS5LlE267omtjzCI1xQ/Telas-P.I?node-id=7%3A6150). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.                                                                                                                             
 
+                                                                                                                                                      
 # <h2> Veja as funcionalidades do sistema em nossa Documentação: </h2>
 
 
 [Documentação_PI_2.docx](https://github.com/Lifer18/Fatec_Projeto_Integrador_Segundo_Semestre/files/9955960/Documentacao_PI_2.docx)
+                                                                                                                                                      
+                                                                                                                                                      
 
